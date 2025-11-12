@@ -81,6 +81,21 @@ Example (base = 2):
 2nd retry → 4s
 3rd retry → moved to DLQ
 
+🧩 Output ScreenShots
+
+🖼️Screenshot 1:
+
+<img width="1306" height="253" alt="Screenshot 2025-11-13 013854" src="https://github.com/user-attachments/assets/651a3ceb-4dc0-4833-9767-ce5d1012a2b3" />
+
+🖼️Screenshot 2:
+
+<img width="1307" height="175" alt="image" src="https://github.com/user-attachments/assets/22aecd7a-5f3d-4553-99aa-04be4f9815ad" />
+
+🖼️Screenshot 3:
+
+<img width="1292" height="200" alt="image" src="https://github.com/user-attachments/assets/0505c2e3-3ebd-4968-8124-7b2d026c8e96" />
+
+
 🧪 Testing Checklist
 
 
@@ -104,3 +119,4 @@ Focused on reliability and simplicity
 Manish M Naik
 Backend Developer Internship Assignment
 November 2025
+
